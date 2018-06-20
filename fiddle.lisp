@@ -8,5 +8,4 @@
 	)
 )
 
-;(write (fib (parse-integer *args*)))
-(write (type-of *args*))
+(write (fib 8))
